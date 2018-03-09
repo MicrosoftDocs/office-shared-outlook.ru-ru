@@ -1,17 +1,5 @@
 {
-  "docsets_to_publish": [
-    {
-      "docset_name": "office-outlook-weather-info-docs",
-      "build_source_folder": "officedocs-dev-outlook-weather-info",
-      "build_output_subfolder": "officedocs-dev-outlook-weather-info",
-      "locale": "ru-ru",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": false,
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    }
-  ],
+  "docsets_to_publish": [],
   "notification_subscribers": [],
   "branches_to_filter": [
     "live-sxs",
